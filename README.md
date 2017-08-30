@@ -4,10 +4,10 @@
 
 ## 作者信息 
 
-- 作者：`策叔` 
+- 作者：`程小航` 
 - 当前版本：`1.1.0`
 - 项目名称：`ceshuChat`
-- 邮箱：`ceshukeji@gmail.com`
+- 邮箱：`rianley@qq.com`
 
 ## 功能特点
 
