@@ -1,5 +1,0 @@
-{
-  "dependencies": {
-    "socket.io": "^1.7.1"
-  }
-}
